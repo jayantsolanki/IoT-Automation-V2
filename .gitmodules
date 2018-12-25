@@ -1,0 +1,3 @@
+[submodule "src/IOT-Laravel"]
+	path = src/IOT-Laravel
+	url = https://github.com/jayantsolanki/IOT-Laravel.git
