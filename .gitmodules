@@ -1,3 +1,7 @@
 [submodule "src/IOT-Laravel"]
 	path = src/IOT-Laravel
 	url = https://github.com/jayantsolanki/IOT-Laravel.git
+[submodule "src/Broker_codes"]
+	path = src/Broker_codes
+	url = https://github.com/jayantsolanki/Broker_codes.git
+	branch = V2018
